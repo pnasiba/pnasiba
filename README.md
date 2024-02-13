@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasiba</h1>
 <h3 align="center">A Learner frontend developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Frontend**
 
 - 💬 Ask me about **Html, Css, Bootstrap, Tailwindcss, Sass, JavaScript**
 
