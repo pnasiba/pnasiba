@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pnasiba23.06@gmail.com**
 
-- ⚡ Fun fact **I think I happy, honestly, hardworking, patient, always searching.**
+- ⚡ Fun fact **I'm happy, honestly, hardworking, patient, always searching.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
