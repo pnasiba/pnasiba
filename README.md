@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 💬 Ask me about **Html, Css, Bootstrap, Tailwindcss, Sass, JavaScript**
+- 💬 Ask me about **Html, Css, Bootstrap, Tailwindcss, Sass, JavaScript, React**
 
 - 📫 How to reach me **pnasiba23.06@gmail.com**
 
